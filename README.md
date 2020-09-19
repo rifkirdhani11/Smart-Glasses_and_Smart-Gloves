@@ -5,11 +5,11 @@ Smart Glove was attached by the flex sensor and IMO MPU6050 for sensing fingers 
 
 <p align="center">
   <img src="Tulibot-wearing.png" width="350" title="hover text">
-  <img src="Tulibot-wearing.JPG" width="350" alt="accessibility text">
+  <img src="Tulibot-wearing.jpg" width="350" alt="accessibility text">
   <img src="Tulibot-glasses.png" width="350" alt="accessibility text">
-  <img src="Tulibot-glasses.JPG" width="350" alt="accessibility text">
-  <img src="Tulibot-gloves-CAD.JPG" width="350" alt="accessibility text">
-  <img src="Tulibot-gloves.JPG" width="350" alt="accessibility text">
+  <img src="Tulibot-glasses.jpg" width="350" alt="accessibility text">
+  <img src="Tulibot-gloves-CAD.jpg" width="350" alt="accessibility text">
+  <img src="Tulibot-gloves.jpg" width="350" alt="accessibility text">
 </p>
 
 Application of Tulibot's smart gloves and smart glasses is attented to people with hearing impairment, to make it easier for them to communicate with other speakers. Hopefully in the future, the application of Tulibot can be expand to something more, that can bring more advantages for the user of this device. Accuracy of this device is approximately at 80% for Smart Glove and 90% for Smart Glasses, based on the test done by the team.
